@@ -1,0 +1,145 @@
+pictureLibrary {
+    display: block;
+    font-family: Arial;
+}
+
+picture {
+    display: block;
+    position: relative;
+
+    /* 外边距 */
+    margin:20px 5px 0px 5px;
+
+    /* 边框*/
+    border-style: solid;
+    border-top-width: 0px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-color: #6AC5AC;
+}
+
+picture > title:before { 
+    content:"title:";
+    font-size: 30px;
+}
+
+picture > title {
+    display: block;
+    background-color: #6AC5AC;
+    font-size: 30px;
+}
+
+picture > labels:before {
+    content:"labels:";
+    color: #ff6347;
+}
+
+picture > labels {
+    display: block;
+}
+
+picture > id:before {
+    content:"id:";
+    color: #ff6347;
+}
+picture > id {
+    display: block;
+}
+
+picture > category:before {
+    content:"category:";
+    color: #ff6347;
+}
+picture > category {
+    display: block;
+}
+
+picture > position:before {
+    content:"position:";
+    color: #ff6347;
+}  
+picture > position {
+    display: block;
+    color: #228CF3;
+}
+
+picture > describe:before {
+    content:"describle:";
+    color: #ff6347;
+    font-size: 20px;
+    display: block;
+    position: relative;
+    left: -50px;
+}
+picture > describe {
+    display: block;
+    position: relative;
+    left: 50px;
+}
+
+picture > describe > size:before {
+    content: "size:";
+    color: #ff6347;
+}
+picture > describe > size {
+    display: block;
+}
+
+picture > describe > photoGraphers:before {
+    content: "photoGraphers:";
+    color: #ff6347;
+}
+picture > describe > photoGraphers {
+    display: block;
+}
+
+picture > describe > copyright:before {
+    content: "copyright:";
+    color: #ff6347;
+}
+picture > describe > copyright {
+    display: block;
+}
+
+picture > describe > pictureDescription:before {
+    content: "pictureDescription:";
+    color: #ff6347;
+}
+picture > describe > pictureDescription {
+    display: block;
+    width: 90%;
+}
+
+picture > describe > place:before {
+    content: "place:";
+    color: #ff6347;
+}
+picture > describe > place {
+	display: block;
+}
+
+picture > describe > EnglishDescription:before {
+	content: "EnglishDescription:";
+	color: #ff6347;
+}
+picture > describe > EnglishDescription {
+    display: block;
+    width: 90%;
+}
+
+picture > describe > resolution:before {
+	content: "resolution:";
+	color: #ff6347;
+}
+picture > describe > resolution {
+	display: block;
+}
+
+picture > describe > photoingtime:before {
+	content: "photoingtime:";
+	color: #ff6347;
+}
+picture > describe > photoingtime {
+	display: block;
+}
