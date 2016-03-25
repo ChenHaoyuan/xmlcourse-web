@@ -1,0 +1,22 @@
+  <!ELEMENT pictureLibrary (picture+)>
+  <!ELEMENT picture  (title?,id,position,labels,category,describe)>
+  <!ELEMENT title    (#PCDATA)>
+  <!ELEMENT id       (#PCDATA)>
+  <!ELEMENT position (#PCDATA)>
+  
+  <!ELEMENT labels   (label+)>
+  <!ELEMENT label    (#PCDATA)>
+  
+  <!ELEMENT category   (#PCDATA)>
+   
+  <!ELEMENT describe  (pictureDescription,EnglishDescription,resolution,size,photoGraphers,copyright)>
+  <!ELEMENT pictureDescription   (#PCDATA)>
+  <!ELEMENT EnglishDescription   (#PCDATA)>
+  <!ELEMENT resolution   (#PCDATA)>
+  <!ELEMENT size   (#PCDATA)>
+  <!ELEMENT photoGraphers   (#PCDATA)>
+  <!ELEMENT copyright   (#PCDATA)>
+  
+  <!ATTLIST pictureLibrary source CDATA #FIXED "www.quanjing.com">
+  <!ATTLIST picture format CDATA #REQUIRED>
+  <!ATTLIST labels labelsQuantity CDATA #REQUIRED>
