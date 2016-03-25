@@ -58,11 +58,6 @@
 				</p>
 				<p>This web is display XML course work.</p>
 				<p>Our data source is picture</p>
-				<ul class="actions">
-					<li>
-						<a href="#one" class="button scrolly">Learn more</a>
-					</li>
-				</ul>
 			</div>
 		</section>
 
@@ -166,11 +161,9 @@
 						<p>Have not started.</p>
 					</section>
 				</div>
-				<ul class="actions">
-					<li>
-						<a href="#" class="button">Learn more</a>
-					</li>
-				</ul>
+				<div class="actions">	
+						<p><a href="manage.php" class="button">upload</a></p>	
+				</div>
 			</div>
 		</section>
 
@@ -180,28 +173,31 @@
 				<h2>Our schedule</h2>
 				<div class="split style1">
 					<section>
-						<h3>The first experiment:</h3>
 						<table border="1">
 							<tr>
+							    <th>number</th>
 								<th>time</th>
 								<th>work</th>
 							</tr>
-							<tr>
-								<td>2016.3.1</td>
-								<td>Finish Site</td>
-							</tr>
-							<tr>
-								<td>2016.3.3</td>
-								<td>AssignmentOne</td>
-							</tr>
-							<tr>
-								<td>2016.3.7</td>
-								<td>AssignmentTwo</td>
-							</tr>
-							<tr>
-								<td>2016.3.10</td>
-								<td>AssignmentThree</td>
-							</tr>
+							<?php 
+							    $con = mysql_connect("localhost","root","");
+							    if (!$con)
+                                {
+                                die('Could not connect: ' . mysql_error());
+                                }
+                                mysql_select_db("my-web", $con);
+                                $result = mysql_query("SELECT * FROM SCHEDULE");
+                                while($row = mysql_fetch_array($result))
+                                {
+                                	echo "<tr>";
+                                	echo "<td>" . $row["NUMBER"] . "</td>";
+                                	echo "<td>" . $row["TIME"] . "</td>";
+                                	echo "<td>" . $row["CONTENT"] . "</td>";
+                                	echo "</tr>";
+                                }
+                                mysql_close($con);
+							?>
+							
 						</table>
 					</section>
 
