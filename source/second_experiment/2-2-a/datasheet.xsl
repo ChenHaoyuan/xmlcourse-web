@@ -6,6 +6,7 @@
     <body>
     	<div id="group">
 		    <h2>group name:<xsl:value-of select="page/group/group_name" /></h2>
+		    <h2>our icon:</h2><img src="../2-4/icon.svg"  width="360" height="360" />
 		    <h2><a href="https://xml.upchen.cn">our site</a></h2>
 			<table border="1">
 			    <tr bgcolor="#9acd32">
