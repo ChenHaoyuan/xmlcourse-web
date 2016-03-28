@@ -8,9 +8,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <h2>PictureLibrary</h2>
     <table border="1">
       <tr bgcolor="#9acd32">
+	  <th><img  width="200" height="260" ></img></th> 
         <th>Title</th>
         <th>id</th>
-	    <th>position</th>
 		<th>labels</th>
 		<th>category</th>
 		<th>pictureDescription</th>
@@ -23,9 +23,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <xsl:for-each select="//picture">
 	  <xsl:sort select="category"/>
       <tr>
+	  		<td><img width="200" height="260"><xsl:attribute name="src"><xsl:value-of 
+           select="position"/>.jpg</xsl:attribute></img></td>
         <td><xsl:value-of select="title"/></td>
         <td><xsl:value-of select="id"/></td>
-		<td><xsl:value-of select="position"/></td>
+
 		<td><xsl:value-of select="labels"/></td>
 		<td><xsl:value-of select="category"/></td>
 		<td><xsl:value-of select="describe/pictureDescription"/></td>
