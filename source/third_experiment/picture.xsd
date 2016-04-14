@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--W3C Schema 由 XMLSpy v2006 U 创建 (http://www.altova.com)-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="EnglishDescription" type="xs:string"/>
+	<xs:element name="category">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="壁纸"/>
+				<xs:enumeration value="家居"/>
+				<xs:enumeration value="旅游"/>
+				<xs:enumeration value="时尚"/>
+				<xs:enumeration value="汽车"/>
+				<xs:enumeration value="美食"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="copyright">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="肖像权(不需要肖像权)"/>
+				<xs:enumeration value="肖像权(有肖像权)"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="describe">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="pictureDescription"/>
+				<xs:element ref="EnglishDescription"/>
+				<xs:element ref="resolution"/>
+				<xs:element ref="size"/>
+				<xs:element ref="photoGraphers"/>
+				<xs:element ref="copyright"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="id">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="14plh0051rf"/>
+				<xs:enumeration value="1l-0366"/>
+				<xs:enumeration value="263-1314"/>
+				<xs:enumeration value="263-13314"/>
+				<xs:enumeration value="483-7352"/>
+				<xs:enumeration value="a0gm60"/>
+				<xs:enumeration value="a2fc9e"/>
+				<xs:enumeration value="acp5302"/>
+				<xs:enumeration value="acp53025"/>
+				<xs:enumeration value="gws48321805"/>
+				<xs:enumeration value="gws483218058"/>
+				<xs:enumeration value="iblgvi02075257"/>
+				<xs:enumeration value="iblhco01999201"/>
+				<xs:enumeration value="iblhco019992031"/>
+				<xs:enumeration value="iblvox01424936"/>
+				<xs:enumeration value="iblvox01424966"/>
+				<xs:enumeration value="is096-056"/>
+				<xs:enumeration value="mf700-02245012"/>
+				<xs:enumeration value="mf700-025012"/>
+				<xs:enumeration value="mf700-06685215"/>
+				<xs:enumeration value="mf824-02294479"/>
+				<xs:enumeration value="mf866-03560526"/>
+				<xs:enumeration value="rob-795-392"/>
+				<xs:enumeration value="sps4254-2855"/>
+				<xs:enumeration value="sps4285-5737"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="label">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="2004年"/>
+				<xs:enumeration value="丽都"/>
+				<xs:enumeration value="休闲服"/>
+				<xs:enumeration value="供给"/>
+				<xs:enumeration value="内裤"/>
+				<xs:enumeration value="化妆"/>
+				<xs:enumeration value="区域"/>
+				<xs:enumeration value="历史"/>
+				<xs:enumeration value="叉子"/>
+				<xs:enumeration value="和海滩"/>
+				<xs:enumeration value="商标"/>
+				<xs:enumeration value="在冬季"/>
+				<xs:enumeration value="地产"/>
+				<xs:enumeration value="地区"/>
+				<xs:enumeration value="地形"/>
+				<xs:enumeration value="地点"/>
+				<xs:enumeration value="城市"/>
+				<xs:enumeration value="壁炉"/>
+				<xs:enumeration value="奔驰"/>
+				<xs:enumeration value="奥斯蒂亚"/>
+				<xs:enumeration value="女人"/>
+				<xs:enumeration value="女青年"/>
+				<xs:enumeration value="委内瑞拉"/>
+				<xs:enumeration value="婴儿床"/>
+				<xs:enumeration value="宝马"/>
+				<xs:enumeration value="客厅"/>
+				<xs:enumeration value="室内"/>
+				<xs:enumeration value="小屋"/>
+				<xs:enumeration value="张嘴"/>
+				<xs:enumeration value="意大利"/>
+				<xs:enumeration value="房子"/>
+				<xs:enumeration value="手"/>
+				<xs:enumeration value="护理"/>
+				<xs:enumeration value="放松"/>
+				<xs:enumeration value="旅游"/>
+				<xs:enumeration value="旅行"/>
+				<xs:enumeration value="时装"/>
+				<xs:enumeration value="更衣室"/>
+				<xs:enumeration value="杯子"/>
+				<xs:enumeration value="果味"/>
+				<xs:enumeration value="桌布"/>
+				<xs:enumeration value="概念"/>
+				<xs:enumeration value="欧洲"/>
+				<xs:enumeration value="正面"/>
+				<xs:enumeration value="比基尼"/>
+				<xs:enumeration value="毛巾"/>
+				<xs:enumeration value="水果"/>
+				<xs:enumeration value="汽车"/>
+				<xs:enumeration value="油"/>
+				<xs:enumeration value="法拉利"/>
+				<xs:enumeration value="海鲈须"/>
+				<xs:enumeration value="火"/>
+				<xs:enumeration value="烹饪"/>
+				<xs:enumeration value="照片"/>
+				<xs:enumeration value="燃烧"/>
+				<xs:enumeration value="特写"/>
+				<xs:enumeration value="玻璃杯"/>
+				<xs:enumeration value="甜点"/>
+				<xs:enumeration value="甜食"/>
+				<xs:enumeration value="疗法"/>
+				<xs:enumeration value="白色"/>
+				<xs:enumeration value="素菜"/>
+				<xs:enumeration value="罗马"/>
+				<xs:enumeration value="美味"/>
+				<xs:enumeration value="美容"/>
+				<xs:enumeration value="胶冻"/>
+				<xs:enumeration value="胸罩"/>
+				<xs:enumeration value="裙子"/>
+				<xs:enumeration value="视野"/>
+				<xs:enumeration value="跑车"/>
+				<xs:enumeration value="运动衣"/>
+				<xs:enumeration value="途中"/>
+				<xs:enumeration value="道路"/>
+				<xs:enumeration value="阿拉贡"/>
+				<xs:enumeration value="隔绝"/>
+				<xs:enumeration value="静物"/>
+				<xs:enumeration value="风景"/>
+				<xs:enumeration value="餐物"/>
+				<xs:enumeration value="马尔代夫"/>
+				<xs:enumeration value="高跟鞋"/>
+				<xs:enumeration value="黄色"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="labels">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="label" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="labelsQuantity" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:byte">
+						<xs:enumeration value="3"/>
+						<xs:enumeration value="4"/>
+						<xs:enumeration value="5"/>
+						<xs:enumeration value="7"/>
+						<xs:enumeration value="8"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="photoGraphers">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="N/A"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="picture">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="title"/>
+				<xs:element ref="id"/>
+				<xs:element ref="position"/>
+				<xs:element ref="labels"/>
+				<xs:element ref="category"/>
+				<xs:element ref="describe"/>
+			</xs:sequence>
+			<xs:attribute name="format" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="jpg"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="pictureDescription" type="xs:string"/>
+	<xs:element name="pictureLibrary">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="picture" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute name="source" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="www.quanjing.com"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="position">
+		<xs:simpleType>
+			<xs:restriction base="xs:anyURI">
+				<xs:enumeration value="http://preview.quanjing.com/acp006/acp53025"/>
+				<xs:enumeration value="http://preview.quanjing.com/alamy001/a2fc9e"/>
+				<xs:enumeration value="http://preview.quanjing.com/chineseview006/1l-0366"/>
+				<xs:enumeration value="http://preview.quanjing.com/chineseview011/263-1314"/>
+				<xs:enumeration value="http://preview.quanjing.com/chineseview082/483-7352"/>
+				<xs:enumeration value="http://preview.quanjing.com/cultura003/14plh0051rf"/>
+				<xs:enumeration value="http://preview.quanjing.com/glow_foto001/gws483218058"/>
+				<xs:enumeration value="http://preview.quanjing.com/ibrm022/iblgvi02075257"/>
+				<xs:enumeration value="http://preview.quanjing.com/ibrm025/iblhco01999201"/>
+				<xs:enumeration value="http://preview.quanjing.com/ibrm041/iblvox01424966"/>
+				<xs:enumeration value="http://preview.quanjing.com/is002/is096-056"/>
+				<xs:enumeration value="http://preview.quanjing.com/is_rm002/is099r5cz"/>
+				<xs:enumeration value="http://preview.quanjing.com/mf041/mf700-02245012"/>
+				<xs:enumeration value="http://preview.quanjing.com/mf063/mf866-03560526"/>
+				<xs:enumeration value="http://preview.quanjing.com/mf063/mf866-03563082"/>
+				<xs:enumeration value="http://preview.quanjing.com/mf067/mf824-02294479"/>
+				<xs:enumeration value="http://preview.quanjing.com/mf088/mf700-06685215"/>
+				<xs:enumeration value="http://preview.quanjing.com/rob_pre006/rob-795-392"/>
+				<xs:enumeration value="http://preview.quanjing.com/sps030/sps4254-2855"/>
+				<xs:enumeration value="http://preview.quanjing.com/sps031/sps4285-5737"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="resolution">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="2912x4368"/>
+				<xs:enumeration value="3089x4728"/>
+				<xs:enumeration value="3388x5100"/>
+				<xs:enumeration value="3399x5100"/>
+				<xs:enumeration value="3414x5120"/>
+				<xs:enumeration value="3612x4838"/>
+				<xs:enumeration value="3627x4861"/>
+				<xs:enumeration value="3797x5700"/>
+				<xs:enumeration value="4063x5076"/>
+				<xs:enumeration value="4580x4584"/>
+				<xs:enumeration value="5100x3400"/>
+				<xs:enumeration value="5100x3404"/>
+				<xs:enumeration value="5123x3415"/>
+				<xs:enumeration value="5551x3107"/>
+				<xs:enumeration value="5616x3744"/>
+				<xs:enumeration value="7216x5412"/>
+				<xs:enumeration value="版权管理类(RM)图片"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="size">
+		<xs:complexType mixed="true">
+			<xs:attribute name="type">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Int"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+			<xs:attribute name="tpye">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="Int"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="title">
+		<xs:complexType mixed="true">
+			<xs:attribute name="type" use="required">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:enumeration value="string"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:attribute>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

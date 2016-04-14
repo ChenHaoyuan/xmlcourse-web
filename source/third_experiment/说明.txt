@@ -1,0 +1,21 @@
+id paixu.xml(结果)
+id paixu.xquery（查询文件） 为按id排序的文件
+size paixu.xml
+size paixu.xquery 为按size排序的文件
+title paixu.xml
+title paixu.xquery 为按title排序的文件
+
+format&size.xml
+format&size.xquery 
+
+format&sizesize.xml
+format&sizesize.xquery 
+
+chaxu3.xml
+chaxun3.xquery   为三组查询文件
+
+jiedianbian.xml
+jiedianbian.xquery 为变更xml数据中的节点的
+
+jiedianbianchaxun.xml
+jiedianbianchaxun.xquery  为变更xml数据中的节点后的查询

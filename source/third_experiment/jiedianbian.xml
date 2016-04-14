@@ -1,0 +1,711 @@
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<picture1>
+	<category name="美食">
+		<id name="iblgvi02075257">
+			<size name="49">
+				<position name="http://preview.quanjing.com/ibrm022/iblgvi02075257">
+					<labels>
+						<label>果味</label>
+						<label>胶冻</label>
+						<label>甜食</label>
+						<label>委内瑞拉</label>
+						<label>烹饪</label>
+						<EnglishDescription>Fruity jelly sweets, Venezuela, recipe available for a fee</EnglishDescription>
+					</labels>
+					<pictureDescription>Fruity jelly sweets, Venezuela, recipe available for a fee</pictureDescription>
+					<EnglishDescription>Fruity jelly sweets, Venezuela, recipe available for a fee</EnglishDescription>
+					<title type="string">果味</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="家居">
+		<id name="sps4285-5737">
+			<size name="59">
+				<position name="http://preview.quanjing.com/sps031/sps4285-5737">
+					<labels>
+						<label>客厅</label>
+						<label>壁炉</label>
+						<label>燃烧</label>
+						<label>火</label>
+						<label>地产</label>
+						<EnglishDescription>
+LIVING ROOM WITH FIREPLACE AND BURNING FIRE. Property Released
+</EnglishDescription>
+					</labels>
+					<pictureDescription>
+LIVING ROOM WITH FIREPLACE AND BURNING FIRE. Property Released
+</pictureDescription>
+					<EnglishDescription>
+LIVING ROOM WITH FIREPLACE AND BURNING FIRE. Property Released
+</EnglishDescription>
+					<title type="string">壁炉架</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="壁纸">
+		<id name="mf700-06685215">
+			<size name="49">
+				<position name="http://preview.quanjing.com/mf088/mf700-06685215">
+					<labels>
+						<label>更衣室</label>
+						<label>和海滩</label>
+						<label>小屋</label>
+						<label>在冬季</label>
+						<label>奥斯蒂亚</label>
+						<label>丽都</label>
+						<label>罗马</label>
+						<label>意大利</label>
+						<EnglishDescription>
+Bathhouse and Beach Huts in Winter, Ostia Lido, Rome, Italy
+</EnglishDescription>
+					</labels>
+					<pictureDescription>
+Bathhouse and Beach Huts in Winter, Ostia Lido, Rome, Italy
+</pictureDescription>
+					<EnglishDescription>
+Bathhouse and Beach Huts in Winter, Ostia Lido, Rome, Italy
+</EnglishDescription>
+					<title type="string">沉闷的</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="旅游">
+		<id name="rob-795-392">
+			<size name="60">
+				<position name="http://preview.quanjing.com/rob_pre006/rob-795-392">
+					<labels>
+						<label>马尔代夫</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>地形</label>
+						<EnglishDescription>Aerial view of resort, Maldives, Indian Ocean, Asia</EnglishDescription>
+					</labels>
+					<pictureDescription>Aerial view of resort, Maldives, Indian Ocean, Asia</pictureDescription>
+					<EnglishDescription>Aerial view of resort, Maldives, Indian Ocean, Asia</EnglishDescription>
+					<title type="string">青绿色</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="旅游">
+		<id name="263-1314">
+			<size name="36">
+				<position name="http://preview.quanjing.com/chineseview011/263-1314">
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<pictureDescription>http://www.quanjing.com/imgbuy/263-1314.html</pictureDescription>
+					<EnglishDescription>N/A</EnglishDescription>
+					<title type="string">寂静</title>
+				</position>
+				<position name="http://preview.quanjing.com/chineseview011/263-1314">
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<pictureDescription>http://www.quanjing.com/imgbuy/263-1314.html</pictureDescription>
+					<EnglishDescription>N/A</EnglishDescription>
+					<title type="string">寂静</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="汽车">
+		<id name="a2fc9e">
+			<size name="41">
+				<position name="http://preview.quanjing.com/alamy001/a2fc9e">
+					<labels>
+						<label>法拉利</label>
+						<label>汽车</label>
+						<label>风景</label>
+						<label>房子</label>
+						<EnglishDescription>1985 Ferrari 288 GTO</EnglishDescription>
+					</labels>
+					<pictureDescription>法拉利</pictureDescription>
+					<EnglishDescription>1985 Ferrari 288 GTO</EnglishDescription>
+					<title type="string">超级跑车</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="汽车">
+		<id name="iblhco01999201">
+			<size name="60">
+				<position name="http://preview.quanjing.com/ibrm025/iblhco01999201">
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<pictureDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gul...</pictureDescription>
+					<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					<title type="string">那不勒斯湾</title>
+				</position>
+				<position name="http://preview.quanjing.com/ibrm025/iblhco01999201">
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<pictureDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gul...</pictureDescription>
+					<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					<title type="string">那不勒斯湾</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="汽车">
+		<id name="a0gm60">
+			<size name="49">
+				<position name="http://preview.quanjing.com/mf063/mf866-03563082">
+					<labels>
+						<label>2004年</label>
+						<label>奔驰</label>
+						<label>汽车</label>
+						<label>道路</label>
+						<EnglishDescription>2004 Mercedes Benz SLK 200K</EnglishDescription>
+					</labels>
+					<pictureDescription>2004年,奔驰</pictureDescription>
+					<EnglishDescription>2004 Mercedes Benz SLK 200K</EnglishDescription>
+					<title type="string">奔驰汽车</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="汽车">
+		<id name="mf866-03560526">
+			<size name="49">
+				<position name="http://preview.quanjing.com/mf063/mf866-03560526">
+					<labels>
+						<label>商标</label>
+						<label>宝马</label>
+						<label>途中</label>
+						<label>正面</label>
+						<EnglishDescription>Contact Masterfile for Trademark Release Availability - 2010 BMW sDrive 35i on road, front 3/4</EnglishDescription>
+					</labels>
+					<pictureDescription>Contact Masterfile for Trademark Release Availability - 2010 BMW sDrive 35i on road, front 3/4</pictureDescription>
+					<EnglishDescription>Contact Masterfile for Trademark Release Availability - 2010 BMW sDrive 35i on road, front 3/4</EnglishDescription>
+					<title type="string">动感效果</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="汽车">
+		<id name="acp53025">
+			<size name="111">
+				<position name="http://preview.quanjing.com/acp006/acp53025">
+					<labels>
+						<label>宝马</label>
+						<label>视野</label>
+						<label>概念</label>
+						<label>跑车</label>
+						<label>隔绝</label>
+						<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					</labels>
+					<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+					<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					<title type="string">印象深刻</title>
+				</position>
+				<position name="http://preview.quanjing.com/acp006/acp53025">
+					<labels>
+						<label>宝马</label>
+						<label>视野</label>
+						<label>概念</label>
+						<label>跑车</label>
+						<label>隔绝</label>
+						<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					</labels>
+					<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+					<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					<title type="string">印象深刻</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="时尚">
+		<id name="is096-056">
+			<size name="61">
+				<position name="http://preview.quanjing.com/is002/is096-056">
+					<labels>
+						<label>疗法</label>
+						<label>美容</label>
+						<label>化妆</label>
+						<label>手</label>
+						<EnglishDescription>Woman receiving manicure treatment</EnglishDescription>
+					</labels>
+					<pictureDescription>女子接受美甲护理</pictureDescription>
+					<EnglishDescription>Woman receiving manicure treatment</EnglishDescription>
+					<title type="string">锉</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="时尚">
+		<id name="ews48321805">
+			<size name="49">
+				<position name="http://preview.quanjing.com/glow_foto001/gws483218058">
+					<labels>
+						<label>特写</label>
+						<label>女青年</label>
+						<label>张嘴</label>
+						<label>照片</label>
+						<label>护理</label>
+						<EnglishDescription>Close-up of a young woman with her mouth open</EnglishDescription>
+					</labels>
+					<pictureDescription>Close-up of a young woman with her mouth open</pictureDescription>
+					<EnglishDescription>Close-up of a young woman with her mouth open</EnglishDescription>
+					<title type="string">健身意识</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="时尚">
+		<id name="1l-0366">
+			<size name="50">
+				<position name="http://preview.quanjing.com/chineseview006/1l-0366">
+					<labels>
+						<label>桌布</label>
+						<label>高跟鞋</label>
+						<label>裙子</label>
+						<label>时装</label>
+						<label>照片</label>
+						<EnglishDescription>Young woman typing, side view</EnglishDescription>
+					</labels>
+					<pictureDescription>Young woman typing, side view</pictureDescription>
+					<EnglishDescription>Young woman typing, side view</EnglishDescription>
+					<title type="string">文雅</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="时尚">
+		<id name="mf700-02245012">
+			<size name="49">
+				<position name="http://preview.quanjing.com/mf041/mf700-02245012">
+					<labels>
+						<label>胸罩</label>
+						<label>运动衣</label>
+						<label>休闲服</label>
+						<label>内裤</label>
+						<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					</labels>
+					<pictureDescription>女人涂抹乳液的腿</pictureDescription>
+					<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					<title type="string">面乳</title>
+				</position>
+				<position name="http://preview.quanjing.com/mf041/mf700-02245012">
+					<labels>
+						<label>胸罩</label>
+						<label>运动衣</label>
+						<label>休闲服</label>
+						<label>内裤</label>
+						<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					</labels>
+					<pictureDescription>女人涂抹乳液的腿</pictureDescription>
+					<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					<title type="string">面乳</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="壁纸">
+		<id name="gws483218058">
+			<size name="60">
+				<position name="http://preview.quanjing.com/is_rm002/is099r5cz">
+					<labels>
+						<label>白色</label>
+						<label>婴儿床</label>
+						<label>供给</label>
+						<label>毛巾</label>
+						<label>室内</label>
+						<EnglishDescription>A white cradle and baby's supplies</EnglishDescription>
+					</labels>
+					<pictureDescription>A white cradle and baby's supplies</pictureDescription>
+					<EnglishDescription>A white cradle and baby's supplies</EnglishDescription>
+					<title type="string">婴儿室</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="时尚">
+		<id name="14plh0051rf">
+			<size name="50">
+				<position name="http://preview.quanjing.com/cultura003/14plh0051rf">
+					<labels>
+						<label>女人</label>
+						<label>比基尼</label>
+						<label>放松</label>
+						<label>地点</label>
+						<EnglishDescription>Woman in bikini relaxing in field</EnglishDescription>
+					</labels>
+					<pictureDescription>Woman in bikini relaxing in field</pictureDescription>
+					<EnglishDescription>Woman in bikini relaxing in field</EnglishDescription>
+					<title type="string">西班牙裔</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="美食">
+		<id name="sps4254-2855">
+			<size name="50">
+				<position name="http://preview.quanjing.com/sps030/sps4254-2855">
+					<labels>
+						<label>海鲈须</label>
+						<label>叉子</label>
+						<label>油</label>
+						<label>照片</label>
+						<EnglishDescription>Sea bass on plate</EnglishDescription>
+					</labels>
+					<pictureDescription>鲈鱼板</pictureDescription>
+					<EnglishDescription>Sea bass on plate</EnglishDescription>
+					<title type="string">海鲈</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="美食">
+		<id name="mf824-02294479">
+			<size name="50">
+				<position name="http://preview.quanjing.com/mf067/mf824-02294479">
+					<labels>
+						<label>玻璃杯</label>
+						<label>照片</label>
+						<label>杯子</label>
+						<label>水果</label>
+						<EnglishDescription>Frozen Yoghurt Sundae</EnglishDescription>
+					</labels>
+					<pictureDescription>冷冻酸奶圣代</pictureDescription>
+					<EnglishDescription>Frozen Yoghurt Sundae</EnglishDescription>
+					<title type="string">圣代冰激凌</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="美食">
+		<id name="iblvox01424966">
+			<size name="50">
+				<position name="http://preview.quanjing.com/ibrm041/iblvox01424966">
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<pictureDescription>巧克力杏仁饼</pictureDescription>
+					<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					<title type="string">浇料</title>
+				</position>
+				<position name="http://preview.quanjing.com/ibrm041/iblvox01424966">
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<pictureDescription>巧克力杏仁饼</pictureDescription>
+					<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					<title type="string">浇料</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="美食">
+		<id name="483-7352">
+			<size name="60">
+				<position name="http://preview.quanjing.com/chineseview082/483-7352">
+					<labels>
+						<label>餐物</label>
+						<label>静物</label>
+						<label>美味</label>
+						<label>素菜</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<pictureDescription>紫燕迎春</pictureDescription>
+					<EnglishDescription>N/A</EnglishDescription>
+					<title type="string">地方菜</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="时尚">
+		<id name="mf700-025012">
+			<size name="49">
+				<position name="http://preview.quanjing.com/mf041/mf700-02245012">
+					<labels>
+						<label>运动衣</label>
+						<label>休闲服</label>
+						<label>内裤</label>
+						<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					</labels>
+					<pictureDescription>涂抹乳液的腿</pictureDescription>
+					<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					<title type="string">防晒乳</title>
+				</position>
+				<position name="http://preview.quanjing.com/mf041/mf700-02245012">
+					<labels>
+						<label>运动衣</label>
+						<label>休闲服</label>
+						<label>内裤</label>
+						<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					</labels>
+					<pictureDescription>涂抹乳液的腿</pictureDescription>
+					<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+					<title type="string">防晒乳</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="美食">
+		<id name="iblvox01424936">
+			<size name="50">
+				<position name="http://preview.quanjing.com/ibrm041/iblvox01424966">
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<pictureDescription>巧克力杏仁饼</pictureDescription>
+					<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					<title type="string">料理</title>
+				</position>
+				<position name="http://preview.quanjing.com/ibrm041/iblvox01424966">
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<labels>
+						<label>照片</label>
+						<label>静物</label>
+						<label>水果</label>
+						<label>甜点</label>
+						<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					</labels>
+					<pictureDescription>巧克力杏仁饼</pictureDescription>
+					<EnglishDescription>Chocolate almond cake</EnglishDescription>
+					<title type="string">料理</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="汽车">
+		<id name="acp5302">
+			<size name="111">
+				<position name="http://preview.quanjing.com/acp006/acp53025">
+					<labels>
+						<label>宝马</label>
+						<label>视野</label>
+						<label>概念</label>
+						<label>跑车</label>
+						<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					</labels>
+					<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+					<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					<title type="string">宝马</title>
+				</position>
+				<position name="http://preview.quanjing.com/acp006/acp53025">
+					<labels>
+						<label>宝马</label>
+						<label>视野</label>
+						<label>概念</label>
+						<label>跑车</label>
+						<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					</labels>
+					<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+					<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+					<title type="string">宝马</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="旅游">
+		<id name="263-13314">
+			<size name="36">
+				<position name="http://preview.quanjing.com/chineseview011/263-1314">
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<pictureDescription>http://www.quanjing.com/imgbuy/263-1314.html</pictureDescription>
+					<EnglishDescription>N/A</EnglishDescription>
+					<title type="string">安静</title>
+				</position>
+				<position name="http://preview.quanjing.com/chineseview011/263-1314">
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<labels>
+						<label>旅行</label>
+						<label>照片</label>
+						<label>旅游</label>
+						<label>风景</label>
+						<label>城市</label>
+						<EnglishDescription>N/A</EnglishDescription>
+					</labels>
+					<pictureDescription>http://www.quanjing.com/imgbuy/263-1314.html</pictureDescription>
+					<EnglishDescription>N/A</EnglishDescription>
+					<title type="string">安静</title>
+				</position>
+			</size>
+		</id>
+	</category>
+	<category name="汽车">
+		<id name="iblhco019992031">
+			<size name="60">
+				<position name="http://preview.quanjing.com/ibrm025/iblhco01999201">
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<pictureDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gul...</pictureDescription>
+					<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					<title type="string">汽车</title>
+				</position>
+				<position name="http://preview.quanjing.com/ibrm025/iblhco01999201">
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<labels>
+						<label>黄色</label>
+						<label>历史</label>
+						<label>地区</label>
+						<label>阿拉贡</label>
+						<label>意大利</label>
+						<label>欧洲</label>
+						<label>区域</label>
+						<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					</labels>
+					<pictureDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gul...</pictureDescription>
+					<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+					<title type="string">汽车</title>
+				</position>
+			</size>
+		</id>
+	</category>
+</picture1>

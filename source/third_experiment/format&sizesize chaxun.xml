@@ -1,0 +1,23 @@
+<pictureLibrary>
+	<picture format="jpg">
+		<title type="string">印象深刻</title>
+		<id>acp53025</id>
+		<position>http://preview.quanjing.com/acp006/acp53025</position>
+		<labels labelsQuantity="5">
+			<label>宝马</label>
+			<label>视野</label>
+			<label>概念</label>
+			<label>跑车</label>
+			<label>隔绝</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+			<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+			<resolution>7216x5412</resolution>
+			<size tpye="Int">111</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+</pictureLibrary>

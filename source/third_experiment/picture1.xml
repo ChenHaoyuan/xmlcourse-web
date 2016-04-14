@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="picture.xsl"?>
+<pictureLibrary source="www.quanjing.com">
+	<picture format="jpg">
+		<title type="string">果味</title>
+		<id>iblgvi02075257</id>
+		<position>http://preview.quanjing.com/ibrm022/iblgvi02075257</position>
+		
+		<label1>果味</label1>
+		<label2>胶冻</label2>
+		<label3>甜食</label3>
+		<label4>委内瑞拉</label4>
+		<label5>烹饪</label5>
+		<category>美食</category>
+		
+		<pictureDescription>Fruity jelly sweets, Venezuela, recipe available for a fee</pictureDescription>
+		<EnglishDescription>Fruity jelly sweets, Venezuela, recipe available for a fee</EnglishDescription>
+		<resolution>3612x4838</resolution>
+		<size type="Int">49</size>
+		<photoGraphers>N/A</photoGraphers>
+		<copyright>肖像权(不需要肖像权)</copyright>
+		
+	</picture>
+	<picture format="jpg">
+		<title type="string">壁炉架</title>
+		<id>sps4285-5737</id>
+		<position>http://preview.quanjing.com/sps031/sps4285-5737</position>
+			<label1>客厅</label1>
+			<label2>壁炉</label2>
+			<label3>燃烧</label3>
+			<label4>火</label4>
+			<label5>地产</label5>
+		<category>家居</category>
+
+			<pictureDescription>
+LIVING ROOM WITH FIREPLACE AND BURNING FIRE. Property Released
+</pictureDescription>
+			<EnglishDescription>
+LIVING ROOM WITH FIREPLACE AND BURNING FIRE. Property Released
+</EnglishDescription>
+			<resolution>4063x5076</resolution>
+			<size type="Int">59</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+
+	</picture>
+	<picture format="jpg">
+		<title type="string">沉闷的</title>
+		<id>mf700-06685215</id>
+		<position>http://preview.quanjing.com/mf088/mf700-06685215</position>
+			<label1>更衣室</label1>
+			<label2>和海滩</label2>
+			<label3>小屋</label3>
+			<label4>在冬季</label4>
+			<label5>奥斯蒂亚</label5>
+
+		<category>壁纸</category>
+
+			<pictureDescription>
+Bathhouse and Beach Huts in Winter, Ostia Lido, Rome, Italy
+</pictureDescription>
+			<EnglishDescription>
+Bathhouse and Beach Huts in Winter, Ostia Lido, Rome, Italy
+</EnglishDescription>
+			<resolution>5100x3404</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+
+	</picture>
+	<picture format="jpg">
+		<title type="string">青绿色</title>
+		<id>rob-795-392</id>
+		<position>http://preview.quanjing.com/rob_pre006/rob-795-392</position>
+			<label1>马尔代夫</label1>
+			<label2>照片</label2>
+			<label3>旅游</label3>
+			<label4>风景</label4>
+			<label5>地形</label5>
+		<category>旅游</category>
+			<pictureDescription>Aerial view of resort, Maldives, Indian Ocean, Asia</pictureDescription>
+			<EnglishDescription>Aerial view of resort, Maldives, Indian Ocean, Asia</EnglishDescription>
+			<resolution>5616x3744</resolution>
+			<size type="Int">60</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+	</picture>
+	<picture format="jpg">
+		<title type="string">寂静</title>
+		<id>263-1314</id>
+		<position>http://preview.quanjing.com/chineseview011/263-1314</position>
+			<label>旅行</label>
+			<label>照片</label>
+			<label>旅游</label>
+			<label>风景</label>
+			<label>城市</label>
+		
+		<category>旅游</category>
+		    <label1>丽都</label1>
+			<label2>罗马</label2>
+			<label3>意大利</label3>
+			<label4>深林</label4>
+			<label5>安静</label5>
+			<pictureDescription>http://www.quanjing.com/imgbuy/263-1314.html</pictureDescription>
+			<EnglishDescription>N/A</EnglishDescription>
+			<resolution>2912x4368</resolution>
+			<size type="Int">36</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		
+	</picture>
+	<picture format="jpg">
+		<title type="string">超级跑车</title>
+		<id>a2fc9e</id>
+		<position>http://preview.quanjing.com/alamy001/a2fc9e</position>
+			<label1>法拉利</label1>
+			<label2>汽车</label2>
+			<label3>风景</label3>
+			<label4>房子</label4>
+			<label5>意大利</label5>
+		<category>汽车</category>
+
+			<pictureDescription>法拉利</pictureDescription>
+			<EnglishDescription>1985 Ferrari 288 GTO</EnglishDescription>
+			<resolution>3089x4728</resolution>
+			<size type="Int">41</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+	</picture>
+</pictureLibrary>

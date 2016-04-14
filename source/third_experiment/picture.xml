@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<?xml-stylesheet type="text/xsl" href="picture.xsl"?>
+
+<pictureLibrary source="www.quanjing.com">
+	<picture format="jpg">
+		<title type="string">果味</title>
+		<id>iblgvi02075257</id>
+		<position>http://preview.quanjing.com/ibrm022/iblgvi02075257</position>
+		<labels labelsQuantity="5">
+			<label>果味</label>
+			<label>胶冻</label>
+			<label>甜食</label>
+			<label>委内瑞拉</label>
+			<label>烹饪</label>
+		</labels>
+		<category>美食</category>
+		<describe>
+			<pictureDescription>Fruity jelly sweets, Venezuela, recipe available for a fee</pictureDescription>
+			<EnglishDescription>Fruity jelly sweets, Venezuela, recipe available for a fee</EnglishDescription>
+			<resolution>3612x4838</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">壁炉架</title>
+		<id>sps4285-5737</id>
+		<position>http://preview.quanjing.com/sps031/sps4285-5737</position>
+		<labels labelsQuantity="5">
+			<label>客厅</label>
+			<label>壁炉</label>
+			<label>燃烧</label>
+			<label>火</label>
+			<label>地产</label>
+		</labels>
+		<category>家居</category>
+		<describe>
+			<pictureDescription>
+LIVING ROOM WITH FIREPLACE AND BURNING FIRE. Property Released
+</pictureDescription>
+			<EnglishDescription>
+LIVING ROOM WITH FIREPLACE AND BURNING FIRE. Property Released
+</EnglishDescription>
+			<resolution>4063x5076</resolution>
+			<size type="Int">59</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">沉闷的</title>
+		<id>mf700-06685215</id>
+		<position>http://preview.quanjing.com/mf088/mf700-06685215</position>
+		<labels labelsQuantity="8">
+			<label>更衣室</label>
+			<label>和海滩</label>
+			<label>小屋</label>
+			<label>在冬季</label>
+			<label>奥斯蒂亚</label>
+			<label>丽都</label>
+			<label>罗马</label>
+			<label>意大利</label>
+		</labels>
+		<category>壁纸</category>
+		<describe>
+			<pictureDescription>
+Bathhouse and Beach Huts in Winter, Ostia Lido, Rome, Italy
+</pictureDescription>
+			<EnglishDescription>
+Bathhouse and Beach Huts in Winter, Ostia Lido, Rome, Italy
+</EnglishDescription>
+			<resolution>5100x3404</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">青绿色</title>
+		<id>rob-795-392</id>
+		<position>http://preview.quanjing.com/rob_pre006/rob-795-392</position>
+		<labels labelsQuantity="5">
+			<label>马尔代夫</label>
+			<label>照片</label>
+			<label>旅游</label>
+			<label>风景</label>
+			<label>地形</label>
+		</labels>
+		<category>旅游</category>
+		<describe>
+			<pictureDescription>Aerial view of resort, Maldives, Indian Ocean, Asia</pictureDescription>
+			<EnglishDescription>Aerial view of resort, Maldives, Indian Ocean, Asia</EnglishDescription>
+			<resolution>5616x3744</resolution>
+			<size type="Int">60</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">寂静</title>
+		<id>263-1314</id>
+		<position>http://preview.quanjing.com/chineseview011/263-1314</position>
+		<labels labelsQuantity="5">
+			<label>旅行</label>
+			<label>照片</label>
+			<label>旅游</label>
+			<label>风景</label>
+			<label>城市</label>
+		</labels>
+		<category>旅游</category>
+		<describe>
+			<pictureDescription>http://www.quanjing.com/imgbuy/263-1314.html</pictureDescription>
+			<EnglishDescription>N/A</EnglishDescription>
+			<resolution>2912x4368</resolution>
+			<size type="Int">36</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">超级跑车</title>
+		<id>a2fc9e</id>
+		<position>http://preview.quanjing.com/alamy001/a2fc9e</position>
+		<labels labelsQuantity="4">
+			<label>法拉利</label>
+			<label>汽车</label>
+			<label>风景</label>
+			<label>房子</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>法拉利</pictureDescription>
+			<EnglishDescription>1985 Ferrari 288 GTO</EnglishDescription>
+			<resolution>3089x4728</resolution>
+			<size type="Int">41</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">那不勒斯湾</title>
+		<id>iblhco01999201</id>
+		<position>http://preview.quanjing.com/ibrm025/iblhco01999201</position>
+		<labels labelsQuantity="7">
+			<label>黄色</label>
+			<label>历史</label>
+			<label>地区</label>
+			<label>阿拉贡</label>
+			<label>意大利</label>
+			<label>欧洲</label>
+			<label>区域</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gul...</pictureDescription>
+			<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+			<resolution>5616x3744</resolution>
+			<size type="Int">60</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">奔驰汽车</title>
+		<id>a0gm60</id>
+		<position>http://preview.quanjing.com/mf063/mf866-03563082</position>
+		<labels labelsQuantity="4">
+			<label>2004年</label>
+			<label>奔驰</label>
+			<label>汽车</label>
+			<label>道路</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>2004年,奔驰</pictureDescription>
+			<EnglishDescription>2004 Mercedes Benz SLK 200K</EnglishDescription>
+			<resolution>5551x3107</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">动感效果</title>
+		<id>mf866-03560526</id>
+		<position>http://preview.quanjing.com/mf063/mf866-03560526</position>
+		<labels labelsQuantity="4">
+			<label>商标</label>
+			<label>宝马</label>
+			<label>途中</label>
+			<label>正面</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>Contact Masterfile for Trademark Release Availability - 2010 BMW sDrive 35i on road, front 3/4</pictureDescription>
+			<EnglishDescription>Contact Masterfile for Trademark Release Availability - 2010 BMW sDrive 35i on road, front 3/4</EnglishDescription>
+			<resolution>5100x3400</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">印象深刻</title>
+		<id>acp53025</id>
+		<position>http://preview.quanjing.com/acp006/acp53025</position>
+		<labels labelsQuantity="5">
+			<label>宝马</label>
+			<label>视野</label>
+			<label>概念</label>
+			<label>跑车</label>
+			<label>隔绝</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+			<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+			<resolution>7216x5412</resolution>
+			<size tpye="Int">111</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">锉</title>
+		<id>is096-056</id>
+		<position>http://preview.quanjing.com/is002/is096-056</position>
+		<labels labelsQuantity="4">
+			<label>疗法</label>
+			<label>美容</label>
+			<label>化妆</label>
+			<label>手</label>
+		</labels>
+		<category>时尚</category>
+		<describe>
+			<pictureDescription>女子接受美甲护理</pictureDescription>
+			<EnglishDescription>Woman receiving manicure treatment</EnglishDescription>
+			<resolution>3797x5700</resolution>
+			<size type="Int">61</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(有肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">健身意识</title>
+		<id>gws48321805</id>
+		<position>http://preview.quanjing.com/glow_foto001/gws483218058</position>
+		<labels labelsQuantity="5">
+			<label>特写</label>
+			<label>女青年</label>
+			<label>张嘴</label>
+			<label>照片</label>
+			<label>护理</label>
+		</labels>
+		<category>时尚</category>
+		<describe>
+			<pictureDescription>Close-up of a young woman with her mouth open</pictureDescription>
+			<EnglishDescription>Close-up of a young woman with her mouth open</EnglishDescription>
+			<resolution>3388x5100</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(有肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">文雅</title>
+		<id>1l-0366</id>
+		<position>http://preview.quanjing.com/chineseview006/1l-0366</position>
+		<labels labelsQuantity="5">
+			<label>桌布</label>
+			<label>高跟鞋</label>
+			<label>裙子</label>
+			<label>时装</label>
+			<label>照片</label>
+		</labels>
+		<category>时尚</category>
+		<describe>
+			<pictureDescription>Young woman typing, side view</pictureDescription>
+			<EnglishDescription>Young woman typing, side view</EnglishDescription>
+			<resolution>3414x5120</resolution>
+			<size type="Int">50</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(有肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">面乳</title>
+		<id>mf700-02245012</id>
+		<position>http://preview.quanjing.com/mf041/mf700-02245012</position>
+		<labels labelsQuantity="4">
+			<label>胸罩</label>
+			<label>运动衣</label>
+			<label>休闲服</label>
+			<label>内裤</label>
+		</labels>
+		<category>时尚</category>
+		<describe>
+			<pictureDescription>女人涂抹乳液的腿</pictureDescription>
+			<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+			<resolution>3399x5100</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(有肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">婴儿室</title>
+		<id>gws483218058</id>
+		<position>http://preview.quanjing.com/is_rm002/is099r5cz</position>
+		<labels labelsQuantity="5">
+			<label>白色</label>
+			<label>婴儿床</label>
+			<label>供给</label>
+			<label>毛巾</label>
+			<label>室内</label>
+		</labels>
+		<category>壁纸</category>
+		<describe>
+			<pictureDescription>A white cradle and baby's supplies</pictureDescription>
+			<EnglishDescription>A white cradle and baby's supplies</EnglishDescription>
+			<resolution>4580x4584</resolution>
+			<size type="Int">60</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(有肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">西班牙裔</title>
+		<id>14plh0051rf</id>
+		<position>http://preview.quanjing.com/cultura003/14plh0051rf</position>
+		<labels labelsQuantity="4">
+			<label>女人</label>
+			<label>比基尼</label>
+			<label>放松</label>
+			<label>地点</label>
+		</labels>
+		<category>时尚</category>
+		<describe>
+			<pictureDescription>Woman in bikini relaxing in field</pictureDescription>
+			<EnglishDescription>Woman in bikini relaxing in field</EnglishDescription>
+			<resolution>3627x4861</resolution>
+			<size type="Int">50</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(有肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">海鲈</title>
+		<id>sps4254-2855</id>
+		<position>http://preview.quanjing.com/sps030/sps4254-2855</position>
+		<labels labelsQuantity="4">
+			<label>海鲈须</label>
+			<label>叉子</label>
+			<label>油</label>
+			<label>照片</label>
+		</labels>
+		<category>美食</category>
+		<describe>
+			<pictureDescription>鲈鱼板</pictureDescription>
+			<EnglishDescription>Sea bass on plate</EnglishDescription>
+			<resolution>5123x3415</resolution>
+			<size type="Int">50</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">圣代冰激凌</title>
+		<id>mf824-02294479</id>
+		<position>http://preview.quanjing.com/mf067/mf824-02294479</position>
+		<labels labelsQuantity="4">
+			<label>玻璃杯</label>
+			<label>照片</label>
+			<label>杯子</label>
+			<label>水果</label>
+		</labels>
+		<category>美食</category>
+		<describe>
+			<pictureDescription>冷冻酸奶圣代</pictureDescription>
+			<EnglishDescription>Frozen Yoghurt Sundae</EnglishDescription>
+			<resolution>版权管理类(RM)图片</resolution>
+			<size type="Int">50</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">浇料</title>
+		<id>iblvox01424966</id>
+		<position>http://preview.quanjing.com/ibrm041/iblvox01424966</position>
+		<labels labelsQuantity="4">
+			<label>照片</label>
+			<label>静物</label>
+			<label>水果</label>
+			<label>甜点</label>
+		</labels>
+		<category>美食</category>
+		<describe>
+			<pictureDescription>巧克力杏仁饼</pictureDescription>
+			<EnglishDescription>Chocolate almond cake</EnglishDescription>
+			<resolution>版权管理类(RM)图片</resolution>
+			<size type="Int">50</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">地方菜</title>
+		<id>483-7352</id>
+		<position>http://preview.quanjing.com/chineseview082/483-7352</position>
+		<labels labelsQuantity="4">
+			<label>餐物</label>
+			<label>静物</label>
+			<label>美味</label>
+			<label>素菜</label>
+		</labels>
+		<category>美食</category>
+		<describe>
+			<pictureDescription>紫燕迎春</pictureDescription>
+			<EnglishDescription>N/A</EnglishDescription>
+			<resolution>5616x3744</resolution>
+			<size type="Int">60</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">防晒乳</title>
+		<id>mf700-025012</id>
+		<position>http://preview.quanjing.com/mf041/mf700-02245012</position>
+		<labels labelsQuantity="3">
+			<label>运动衣</label>
+			<label>休闲服</label>
+			<label>内裤</label>
+		</labels>
+		<category>时尚</category>
+		<describe>
+			<pictureDescription>涂抹乳液的腿</pictureDescription>
+			<EnglishDescription>Woman Applying Lotion to Legs</EnglishDescription>
+			<resolution>3399x5100</resolution>
+			<size type="Int">49</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(有肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">料理</title>
+		<id>iblvox01424936</id>
+		<position>http://preview.quanjing.com/ibrm041/iblvox01424966</position>
+		<labels labelsQuantity="4">
+			<label>照片</label>
+			<label>静物</label>
+			<label>水果</label>
+			<label>甜点</label>
+		</labels>
+		<category>美食</category>
+		<describe>
+			<pictureDescription>巧克力杏仁饼</pictureDescription>
+			<EnglishDescription>Chocolate almond cake</EnglishDescription>
+			<resolution>版权管理类(RM)图片</resolution>
+			<size type="Int">50</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">宝马</title>
+		<id>acp5302</id>
+		<position>http://preview.quanjing.com/acp006/acp53025</position>
+		<labels labelsQuantity="4">
+			<label>宝马</label>
+			<label>视野</label>
+			<label>概念</label>
+			<label>跑车</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+			<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+			<resolution>7216x5412</resolution>
+			<size tpye="Int">111</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">安静</title>
+		<id>263-13314</id>
+		<position>http://preview.quanjing.com/chineseview011/263-1314</position>
+		<labels labelsQuantity="5">
+			<label>旅行</label>
+			<label>照片</label>
+			<label>旅游</label>
+			<label>风景</label>
+			<label>城市</label>
+		</labels>
+		<category>旅游</category>
+		<describe>
+			<pictureDescription>http://www.quanjing.com/imgbuy/263-1314.html</pictureDescription>
+			<EnglishDescription>N/A</EnglishDescription>
+			<resolution>2912x4368</resolution>
+			<size type="Int">36</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+	<picture format="jpg">
+		<title type="string">汽车</title>
+		<id>iblhco019992031</id>
+		<position>http://preview.quanjing.com/ibrm025/iblhco01999201</position>
+		<labels labelsQuantity="7">
+			<label>黄色</label>
+			<label>历史</label>
+			<label>地区</label>
+			<label>阿拉贡</label>
+			<label>意大利</label>
+			<label>欧洲</label>
+			<label>区域</label>
+		</labels>
+		<category>汽车</category>
+		<describe>
+			<pictureDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gul...</pictureDescription>
+			<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+			<resolution>5616x3744</resolution>
+			<size type="Int">60</size>
+			<photoGraphers>N/A</photoGraphers>
+			<copyright>肖像权(不需要肖像权)</copyright>
+		</describe>
+	</picture>
+</pictureLibrary>

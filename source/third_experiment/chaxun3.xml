@@ -1,0 +1,50 @@
+<pictureLibrary>
+	<nographer>
+		<picture format="jpg">
+			<title type="string">那不勒斯湾</title>
+			<id>iblhco01999201</id>
+			<position>http://preview.quanjing.com/ibrm025/iblhco01999201</position>
+			<labels labelsQuantity="7">
+				<label>黄色</label>
+				<label>历史</label>
+				<label>地区</label>
+				<label>阿拉贡</label>
+				<label>意大利</label>
+				<label>欧洲</label>
+				<label>区域</label>
+			</labels>
+			<category>汽车</category>
+			<describe>
+				<pictureDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gul...</pictureDescription>
+				<EnglishDescription>Yellow Ferrari in the historic district of Ischia Ponte, Castello Aragonese castle, Ischia, Gulf of Naples, Campania region, Italy, Europe</EnglishDescription>
+				<resolution>5616x3744</resolution>
+				<size type="Int">60</size>
+				<photoGraphers>N/A</photoGraphers>
+				<copyright>肖像权(不需要肖像权)</copyright>
+			</describe>
+		</picture>
+	</nographer>
+	<nographer>
+		<picture format="jpg">
+			<title type="string">印象深刻</title>
+			<id>acp53025</id>
+			<position>http://preview.quanjing.com/acp006/acp53025</position>
+			<labels labelsQuantity="5">
+				<label>宝马</label>
+				<label>视野</label>
+				<label>概念</label>
+				<label>跑车</label>
+				<label>隔绝</label>
+			</labels>
+			<category>汽车</category>
+			<describe>
+				<pictureDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</pictureDescription>
+				<EnglishDescription>2012 BMW Vision ConnectedDrive concept sports car isolated on white background</EnglishDescription>
+				<resolution>7216x5412</resolution>
+				<size tpye="Int">111</size>
+				<photoGraphers>N/A</photoGraphers>
+				<copyright>肖像权(不需要肖像权)</copyright>
+			</describe>
+		</picture>
+	</nographer>
+</pictureLibrary>

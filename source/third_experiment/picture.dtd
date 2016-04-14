@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DTD 由 XMLSpy v2006 U 创建 (http://www.altova.com)-->
+<!ELEMENT EnglishDescription (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT copyright (#PCDATA)>
+<!ELEMENT describe (pictureDescription, EnglishDescription, resolution, size, photoGraphers, copyright)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT label (#PCDATA)>
+<!ELEMENT labels (label+)>
+<!ATTLIST labels
+	labelsQuantity CDATA #REQUIRED
+>
+<!ELEMENT photoGraphers (#PCDATA)>
+<!ELEMENT picture (title, id, position, labels, category, describe)>
+<!ATTLIST picture
+	format CDATA #REQUIRED
+>
+<!ELEMENT pictureDescription (#PCDATA)>
+<!ELEMENT pictureLibrary (picture+)>
+<!ATTLIST pictureLibrary
+	source CDATA #REQUIRED
+>
+<!ELEMENT position (#PCDATA)>
+<!ELEMENT resolution (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ATTLIST size
+	type CDATA #IMPLIED
+	tpye CDATA #IMPLIED
+>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+	type CDATA #REQUIRED
+>
